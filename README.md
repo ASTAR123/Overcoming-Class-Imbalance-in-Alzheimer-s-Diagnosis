@@ -1,0 +1,2 @@
+# Overcoming-Class-Imbalance-in-Alzheimer-s-Diagnosis-A-Novel-Hybrid-Deep-Learning-Framework
+Alzheimer's disease (AD) affects millions of people worldwide. Early diagnosis is critical but often hindered by class imbalance and limited data in medical imaging. This study introduces a hybrid ResNet50+U-Net model, combining ResNet50 for feature extraction and U-Net-inspired decoders for spatial detail recovery.
